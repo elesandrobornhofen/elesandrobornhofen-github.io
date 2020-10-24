@@ -2,7 +2,7 @@
 title: Conferences
 permalink: /conferences/
 header:
-  image: /assets/images/tree-bw-crop2.jpg
+  image: /assets/images/grand_C.jpg
 ---
 
 ### Selected conferences
