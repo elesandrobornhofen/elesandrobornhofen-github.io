@@ -4,7 +4,7 @@ title: "Welcome"
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/rallarvegen-crop2.jpg
+  image: /assets/images/panorama-2405958.jpg
 ---
 
 Here's where the story begins...
