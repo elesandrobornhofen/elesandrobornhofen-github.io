@@ -1,6 +1,6 @@
 ---
-title: Teaching
-permalink: /teaching/
+title: Publications
+permalink: /publications/
 header:
   image: /assets/images/haceta-crop2.jpg
 ---
@@ -17,4 +17,4 @@ Unless otherwise noted, all courses are currently being taught at the University
 
 *Environmental Economics*, EC 434. ([Syllabus](https://drive.google.com/file/d/1Ut5_qRwkKr_PsLNyUYG9ttKZdbiBhqAs/view?usp=sharing).)
 
-*Intermediate Microeconomic Theory*, EC 311. 
+*Intermediate Microeconomic Theory*, EC 311.
