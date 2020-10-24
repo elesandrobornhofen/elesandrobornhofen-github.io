@@ -2,7 +2,7 @@
 title: Research
 permalink: /research/
 header:
-  image: /assets/images/foz_do_iguacu.jpg
+  image: /assets/images/foz_do_iguacu2.jpg
 ---
 
 **Fields:** Plant genetics an breeding. Prediction models. Agriculture.
