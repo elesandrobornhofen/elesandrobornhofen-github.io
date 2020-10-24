@@ -2,7 +2,7 @@
 title: Publications
 permalink: /publications/
 header:
-  image: /assets/images/haceta-crop2.jpg
+  image: /assets/images/MN_snow.jpg
 ---
 Selected publications
 
