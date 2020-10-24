@@ -92,10 +92,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/grant_mcdermott"
+      url: "https://twitter.com/eB_elesandro"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/grantmcdermott"
+      url: "https://github.com/elesandrobornhofen"
 
 defaults:
   # _posts
