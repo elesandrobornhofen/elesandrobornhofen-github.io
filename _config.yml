@@ -142,7 +142,7 @@ analytics:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "bornhofen-blog"
+    shortname: "https-elesandrobornhofen-github-io"
 
 category_archive:
   type: liquid
