@@ -20,7 +20,7 @@ This research study aimed to understand the genetic tolerance mechanism of soybe
 
 1. "Breed4Biomass" - Reverse Breeding for Biomass Improvement in Grasses.\
   * <font size="4"> AU Project Manager : Torben Asp; 4</font>
-  * Partner : DLF-TRIFOLIUM A / S and Chinese Academy of Sciences;
+  * <font size="4"> Partner : DLF-TRIFOLIUM A / S and Chinese Academy of Sciences; 4</font>
 2. "GreenSelect" - Maximizing Green Grass Breeding by Second Generation Genomic Selection.\
-  * AU Project Manager : Luc Janss;
-  * Partner : DLF-TRIFOLIUM A / S;
+  * <font size="4"> AU Project Manager : Luc Janss; 4</font>
+  * <font size="4"> Partner : DLF-TRIFOLIUM A / S; 4</font>
