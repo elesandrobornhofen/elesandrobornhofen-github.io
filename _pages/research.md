@@ -18,6 +18,5 @@ This research study aimed to understand the genetic tolerance mechanism of soybe
 
 ## Selected research projects in progress...
 
-"Breed4Biomass" - Reverse Breeding for Biomass Improvement in Grasses.
-
+"Breed4Biomass" - Reverse Breeding for Biomass Improvement in Grasses.\
 "GreenSelect" - Maximizing Green Grass Breeding by Second Generation Genomic Selection.
