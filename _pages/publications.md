@@ -6,7 +6,7 @@ header:
 ---
 Selected publications
 
-### Peer reviewed articles
+### Selected peer reviewed articles
 
 * **Combining ability for the improvement of vegetable soybean.**
   Renan Silva e Souza,
@@ -20,7 +20,7 @@ Selected publications
   June 2020. \\
   [paper](/assets/files/cav2014/paper.pdf){: .btn .btn--primary .btn--small}
 
-### Conference proceedings
+### Selected conference proceedings
 
  <span style="color: #d03030">Recipient of **SOY2018 Poster Competition Award (2nd place)**</span> \\
 
