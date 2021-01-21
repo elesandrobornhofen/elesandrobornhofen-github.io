@@ -8,11 +8,19 @@ Selected publications
 
 ### Peer reviewed articles
 
-Bornhofen E., ...
+* **Combining ability for the improvement of vegetable soybean.**
+  Renan Silva e Souza,
+  Pedro Augusto Medeiros Barbosa,
+  Rafael Massahiro Yassue,
+  [Elesandro Bornhofen](https://www7.in.tum.de/people/detail/index.php?id=people.detail&arg=152),
+  Fernando Garcia Espolador,
+  Felipe Maniero Nazato,
+  Natal Antonio Vello.  
+  _Agronomy Journal [**doi**](https://doi.org/10.1002/agj2.20322)._
+  July 2014. \\
+  [paper](/assets/files/cav2014/paper.pdf){: .btn .btn--primary .btn--small}
 
 ### Conference proceedings
-
-Bornhofen E., ...
 
 
 ## Theses
