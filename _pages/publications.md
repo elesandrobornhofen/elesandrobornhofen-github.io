@@ -12,12 +12,12 @@ Selected publications
   Renan Silva e Souza,
   Pedro Augusto Medeiros Barbosa,
   Rafael Massahiro Yassue,
-  [Elesandro Bornhofen](https://www7.in.tum.de/people/detail/index.php?id=people.detail&arg=152),
+  [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate),
   Fernando Garcia Espolador,
   Felipe Maniero Nazato,
   Natal Antonio Vello.  
   _Agronomy Journal [**doi**](https://doi.org/10.1002/agj2.20322)._
-  July 2014. \\
+  June 2020. \\
   [paper](/assets/files/cav2014/paper.pdf){: .btn .btn--primary .btn--small}
 
 ### Conference proceedings
