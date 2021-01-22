@@ -27,7 +27,7 @@ Selected publications
   Natal Antonio Vello.  
   _In Proceedings of the crops2019 conference._
   September 2019, Huntsville, Alabama, USA. \\
-  [paper](/assets/posters/CROPS2019_poster_bornhofen.pdf){: .btn .btn--primary .btn--small}
+  [poster](/assets/posters/CROPS2019_poster_bornhofen.pdf){: .btn .btn--primary .btn--small}
 
  <span style="color: #d03030">Recipient of **SOY2018 Poster Competition Award (2nd place)**</span> \\
 
