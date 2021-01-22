@@ -22,6 +22,13 @@ Selected publications
 
 ### Selected conference proceedings
 
+* **Tolerance to rust-induced stress: a comprehensive study on the benefits and constraints to soybean breeding.**
+  [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate),
+  Natal Antonio Vello.  
+  _In Proceedings of the crops2019 conference._
+  September 2019, Huntsville, Alabama, USA. \\
+  [paper](/assets/files/cav2014/paper.pdf){: .btn .btn--primary .btn--small}
+
  <span style="color: #d03030">Recipient of **SOY2018 Poster Competition Award (2nd place)**</span> \\
 
 ## Theses
