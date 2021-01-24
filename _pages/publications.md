@@ -40,8 +40,8 @@ Selected publications
 
 ## Theses
 
-* **Combinatorial Constructions for Effective Testing.**
-  [Filip Niksic](https://fniksic.github.io/).
-  _Doctoral thesis, Technische Universität Kaiserslautern._
-  May 2019. \\
-  [thesis](/assets/files/doctoral-thesis.pdf){: .btn .btn--primary .btn--small}
+* **Genetic analysis reveals opportunities and obstacles of tolerance to the Asian soybean rust fungus.**
+  [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
+  _Doctoral thesis [**doi**](https://doi.org/10.11606/T.11.2019.tde-17102019-164015), University of São Paulo, ESALQ/USP._
+  Piracicaba, August 2019. <font size="3"> <span style="color: #d03030">Language: Portuguese</span> </font> \\
+  [thesis](/assets/thesis/phd_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
