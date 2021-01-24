@@ -16,8 +16,7 @@ Selected publications
   Fernando Garcia Espolador,
   Felipe Maniero Nazato,
   Natal Antonio Vello.  
-  _Agronomy Journal [**doi**](https://doi.org/10.1002/agj2.20322)._
-  June 2020. \\
+  _Agronomy Journal_, 112(5), 2020. _[**doi**](https://doi.org/10.1002/agj2.20322)_\\
   [paper](/assets/files/cav2014/paper.pdf){: .btn .btn--primary .btn--small}
 
 ## Selected conference proceedings
@@ -53,7 +52,7 @@ Selected publications
 * **Genetic analysis reveals opportunities and obstacles of tolerance to the Asian soybean rust fungus.**
   [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
   _Doctoral thesis, [**doi**](https://doi.org/10.11606/T.11.2019.tde-17102019-164015), University of São Paulo, ESALQ/USP._
-  Piracicaba, August 2019. <font size="3"> <span style="color: #7d7878">Language: Portuguese</span> </font> \\
+  Piracicaba, August 2019. <font size="3"> <span style="color: #7d7878">Language: Portuguese (slides in English)</span> </font> \\
   [thesis](/assets/thesis/phd_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
   [slides](/assets/thesis/phd_elesandro_bornhofen_slides.pdf){: .btn .btn--primary .btn--small}
 
