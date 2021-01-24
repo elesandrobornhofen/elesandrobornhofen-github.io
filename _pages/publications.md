@@ -42,7 +42,7 @@ Selected publications
 
 ### 2020
 
-* **Portfolio diversification and rebalancing: impacts on risk-return trade-off.**
+* **Portfolio diversification and rebalancing: Impacts on risk-return trade-off.**
   [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
   _MBA in Business Management, Pecege, ESALQ/USP._
   Piracicaba, July 2020. <font size="3"> <span style="color: #d03030">Language: Portuguese</span> </font> \\
@@ -52,7 +52,7 @@ Selected publications
 
 * **Genetic analysis reveals opportunities and obstacles of tolerance to the Asian soybean rust fungus.**
   [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
-  _Doctoral thesis [**doi**](https://doi.org/10.11606/T.11.2019.tde-17102019-164015), University of São Paulo, ESALQ/USP._
+  _Doctoral thesis, [**doi**](https://doi.org/10.11606/T.11.2019.tde-17102019-164015), University of São Paulo, ESALQ/USP._
   Piracicaba, August 2019. <font size="3"> <span style="color: #d03030">Language: Portuguese</span> </font> \\
   [thesis](/assets/thesis/phd_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
 
@@ -68,6 +68,14 @@ Selected publications
 
 * **Evaluation of genetic and environmental effects on yield evolution, baking quality and stability of wheat.**
   [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
-  _Master's degree thesis [**link**](http://repositorio.utfpr.edu.br/jspui/handle/1/1221), Federal University of Technology, UTFPR._
+  _Master's degree thesis, [**link**](http://repositorio.utfpr.edu.br/jspui/handle/1/1221), Federal University of Technology, UTFPR._
   Pato Branco, March 2015. <font size="3"> <span style="color: #d03030">Language: Portuguese</span> </font> \\
-  [thesis](/assets/thesis/phd_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
+  [thesis](/assets/thesis/msc_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
+
+### 2012
+
+* **Agronomic performance of wheat cultivars in response to nitrogen and sulfur fertilization.**
+  [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
+  _Bachelor's degree thesis, [**link**](http://repositorio.utfpr.edu.br/jspui/handle/1/1221), Federal University of Technology, UTFPR._
+  Pato Branco, June 2012. <font size="3"> <span style="color: #d03030">Language: Portuguese</span> </font> \\
+  [thesis](/assets/thesis/bsc_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
