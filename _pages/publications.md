@@ -6,7 +6,7 @@ header:
 ---
 Selected publications
 
-### Selected peer reviewed articles
+## Selected peer reviewed articles
 
 * **Combining ability for the improvement of vegetable soybean.**
   Renan Silva e Souza,
@@ -20,7 +20,7 @@ Selected publications
   June 2020. \\
   [paper](/assets/files/cav2014/paper.pdf){: .btn .btn--primary .btn--small}
 
-### Selected conference proceedings
+## Selected conference proceedings
 
 * **Tolerance to rust-induced stress: a comprehensive study on the benefits and constraints to soybean breeding.**
   [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate),
@@ -40,8 +40,34 @@ Selected publications
 
 ## Theses
 
+### 2020
+
+* **Portfolio diversification and rebalancing: impacts on risk-return trade-off.**
+  [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
+  _MBA in Business Management, Pecege, ESALQ/USP._
+  Piracicaba, July 2020. <font size="3"> <span style="color: #d03030">Language: Portuguese</span> </font> \\
+  [thesis](/assets/thesis/mba_business_management_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
+
+### 2019
+
 * **Genetic analysis reveals opportunities and obstacles of tolerance to the Asian soybean rust fungus.**
   [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
   _Doctoral thesis [**doi**](https://doi.org/10.11606/T.11.2019.tde-17102019-164015), University of São Paulo, ESALQ/USP._
   Piracicaba, August 2019. <font size="3"> <span style="color: #d03030">Language: Portuguese</span> </font> \\
+  [thesis](/assets/thesis/phd_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
+
+### 2017
+
+* **Associations between global indices of risk management and agricultural development through multivariate analysis.**
+  [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
+  _MBA in Project Management, Pecege, ESALQ/USP._
+  Piracicaba, December 2017. <font size="3"> <span style="color: #d03030">Language: Portuguese</span> </font> \\
+  [thesis](/assets/thesis/mba_project_management_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
+
+### 2015
+
+* **Evaluation of genetic and environmental effects on yield evolution, baking quality and stability of wheat.**
+  [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
+  _Master's degree thesis [**link**](http://repositorio.utfpr.edu.br/jspui/handle/1/1221), Federal University of Technology, UTFPR._
+  Pato Branco, March 2015. <font size="3"> <span style="color: #d03030">Language: Portuguese</span> </font> \\
   [thesis](/assets/thesis/phd_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
