@@ -45,7 +45,7 @@ Selected publications
 * **Portfolio diversification and rebalancing: Impacts on risk-return trade-off.**
   [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
   _MBA in Business Management, Pecege, ESALQ/USP._
-  Piracicaba, July 2020. <font size="3"> <span style="color: #d03030">Language: Portuguese</span> </font> \\
+  Piracicaba, July 2020. <font size="3"> <span style="color: #7d7878">Language: Portuguese</span> </font> \\
   [thesis](/assets/thesis/mba_business_management_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
 
 ### 2019
@@ -53,15 +53,16 @@ Selected publications
 * **Genetic analysis reveals opportunities and obstacles of tolerance to the Asian soybean rust fungus.**
   [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
   _Doctoral thesis, [**doi**](https://doi.org/10.11606/T.11.2019.tde-17102019-164015), University of São Paulo, ESALQ/USP._
-  Piracicaba, August 2019. <font size="3"> <span style="color: #d03030">Language: Portuguese</span> </font> \\
+  Piracicaba, August 2019. <font size="3"> <span style="color: #7d7878">Language: Portuguese</span> </font> \\
   [thesis](/assets/thesis/phd_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
+  [thesis](/assets/thesis/phd_elesandro_bornhofen_slides.pdf){: .btn .btn--primary .btn--small}
 
 ### 2017
 
 * **Associations between global indices of risk management and agricultural development through multivariate analysis.**
   [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
   _MBA in Project Management, Pecege, ESALQ/USP._
-  Piracicaba, December 2017. <font size="3"> <span style="color: #d03030">Language: Portuguese</span> </font> \\
+  Piracicaba, December 2017. <font size="3"> <span style="color: #7d7878">Language: Portuguese</span> </font> \\
   [thesis](/assets/thesis/mba_project_management_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
 
 ### 2015
@@ -69,7 +70,7 @@ Selected publications
 * **Evaluation of genetic and environmental effects on yield evolution, baking quality and stability of wheat.**
   [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
   _Master's degree thesis, [**link**](http://repositorio.utfpr.edu.br/jspui/handle/1/1221), Federal University of Technology, UTFPR._
-  Pato Branco, March 2015. <font size="3"> <span style="color: #d03030">Language: Portuguese</span> </font> \\
+  Pato Branco, March 2015. <font size="3"> <span style="color: #7d7878">Language: Portuguese</span> </font> \\
   [thesis](/assets/thesis/msc_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
 
 ### 2012
@@ -77,5 +78,5 @@ Selected publications
 * **Agronomic performance of wheat cultivars in response to nitrogen and sulfur fertilization.**
   [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
   _Bachelor's degree thesis, [**link**](http://repositorio.utfpr.edu.br/jspui/handle/1/1221), Federal University of Technology, UTFPR._
-  Pato Branco, June 2012. <font size="3"> <span style="color: #d03030">Language: Portuguese</span> </font> \\
+  Pato Branco, June 2012. <font size="3"> <span style="color: #7d7878">Language: Portuguese</span> </font> \\
   [thesis](/assets/thesis/bsc_elesandro_bornhofen.pdf){: .btn .btn--primary .btn--small}
