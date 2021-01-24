@@ -17,7 +17,28 @@ Selected publications
   Felipe Maniero Nazato,
   Natal Antonio Vello.  
   _Agronomy Journal_, 112(5), 2020. _[**doi**](https://doi.org/10.1002/agj2.20322)_\\
-  [paper](/assets/files/cav2014/paper.pdf){: .btn .btn--primary .btn--small}
+
+* **UTF 25-Early bread wheat cultivar with white flour.**
+  Giovani Benin, et al.
+  _Crop Breeding and Applied Biotechnology_, 20(4), 2020. _[**doi**](https://doi.org/10.1590/1984-70332020v20n4c67)_\\
+
+* **Associations between global indices of risk management and agricultural development.**
+  [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate),
+  Thiago Gentil Ramires,
+  Tábata Bergonci,
+  Luiz Ricardo Nakamura,
+  Ana Julia Righetto.
+  _Agricultural Systems_, 173, 2019. _[**doi**](https://doi.org/10.1016/j.agsy.2019.03.006)_\\
+
+* **Wheat yield improvements in Brazil: Roles of genetics and environment.**
+  [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate),
+  Matheus Henrique Todeschini,
+  Matheus Giovane Stoco,
+  Alana Madureira,
+  Volmir Sergio Marchioro,
+  Lindolfo Storck,
+  Giovani Benin.
+  _Crop Science_, 58(3), 2018. _[**doi**](https://doi.org/10.2135/cropsci2017.06.0358)_\\
 
 ## Selected conference proceedings
 
