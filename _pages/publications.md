@@ -8,6 +8,14 @@ Selected publications
 
 ## Selected peer reviewed articles
 
+
+| yr                                                 | pub title                                                                    | journal | r             | r |
+|----------------------------------------------------|------------------------------------------------------------------------------|---------|---------------|---|
+| dsijdisdish dsdhushdush dushduhsu dhushdushdushdus | dhuashduashdiua shdiasuhdiuashduias hduiashdushdusahdaiuhduash diuashduishdi | bb      | suhdushduhsdu | c |
+| 2021                                               | bb                                                                           | bb      | c             | c |
+| 2022                                               | cc                                                                           | cc      | a             | a |
+
+
 * **Combining ability for the improvement of vegetable soybean.**
   Renan Silva e Souza,
   Pedro Augusto Medeiros Barbosa,
