@@ -19,6 +19,7 @@ url: #https://elesandrobornhofen.github.io
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.
 
+
 github: [metadata]
 email: bornhofen@qgg.au.dk
 description: >- # this means to ignore newlines in the text below
